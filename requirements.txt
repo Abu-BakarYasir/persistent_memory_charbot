@@ -1,0 +1,16 @@
+streamlit
+python-dotenv
+openai
+langmem
+langgraph
+chromadb
+sentence-transformers
+langchain-chroma 
+langchain-huggingface
+
+
+
+streamlit
+mem0ai
+python-dotenv
+tiktoken
